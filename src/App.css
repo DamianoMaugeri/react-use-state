@@ -36,3 +36,15 @@ a {
 .main_card {
   margin-bottom: 50px;
 }
+
+.card {
+  max-width: 900px;
+  border: 2px solid black;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.card_title {
+  font-size: 25px;
+  margin-bottom: 30px;
+}
