@@ -1,0 +1,38 @@
+/* RESET */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+.page_header {
+  text-align: center;
+  padding: 50px 0;
+  background-color: rgb(182, 179, 179);
+}
+
+.button_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.main_list {
+  margin: 50px 0;
+
+}
+
+.main_card {
+  margin-bottom: 50px;
+}
